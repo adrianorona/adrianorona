@@ -2,16 +2,16 @@
   
   <!-- Header Banner -->
   <img src="./images/13414519583c03a8576b45d6171c11c9.jpg" width="100%" alt="Welcome to My GitHub"/>
+
 </div>
 
 <!-- Social Links -->
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/YOUR_USERNAME)
-  [![Codeforces](https://img.shields.io/badge/CODEFORCES-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/YOUR_USERNAME)
-  [![CodeChef](https://img.shields.io/badge/CODECHEF-0d1117?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://codechef.com/users/YOUR_USERNAME)
-  [![Pinterest](https://img.shields.io/badge/PINTEREST-0d1117?style=for-the-badge&logo=pinterest&logoColor=E60023)](https://pinterest.com/YOUR_USERNAME)
-  [![Chess.com](https://img.shields.io/badge/CHESS.COM-0d1117?style=for-the-badge&logo=chess.com&logoColor=81B64C)](https://chess.com/member/YOUR_USERNAME)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_USERNAME)
+  [![Facebook](https://img.shields.io/badge/FACEBOOK-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/YOUR_USERNAME)
+  [![Gmail](https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=google-chrome&logoColor=4285F4)](https://your-portfolio.com)
 
 </div>
 
@@ -20,16 +20,16 @@
 <!-- About Me Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="ID Card" width="25" height="25" /> About me
 
-<img align="right" alt="Astronaut" width="200" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+<img align="right" alt="Data Science" width="200" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-Hello There! I'm **Your Name**, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, Next, Bootstrap and more.
+Hello There! I'm **Your Name**, an aspiring **Data Scientist / Data Analyst**. I'm passionate about transforming raw data into meaningful insights and building data-driven solutions. Currently exploring machine learning, data visualization, and statistical analysis.
 
 <br>
 
-- 🎓 Studying at the **National University of Costa Rica (UNA)**
-- 👨‍🏫 Private tutor in **C++ at the University**
-- 🏆 Competitor in the **ICPC (2025)**
-- ♟️ **Chess Player**
+- 📊 Passionate about **Data Science & Analytics**
+- � Exploring **Machine Learning & AI**
+- 📈 Creating **Data Visualizations & Dashboards**
+- 🎯 Goal: Become a skilled **Data Scientist**
 
 <br clear="right"/>
 
@@ -40,23 +40,18 @@ Hello There! I'm **Your Name**, a Systems Engineer student. I enjoy learning new
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/JAVA-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+### Languages & Libraries
 ![Python](https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=276DC3)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![React](https://img.shields.io/badge/REACT-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Pandas](https://img.shields.io/badge/PANDAS-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NUMPY-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-0d1117?style=for-the-badge&logo=python&logoColor=11557C)
+![Seaborn](https://img.shields.io/badge/SEABORN-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 
-![Ruby](https://img.shields.io/badge/RUBY-0d1117?style=for-the-badge&logo=ruby&logoColor=CC342D)
-![Angular](https://img.shields.io/badge/ANGULAR-0d1117?style=for-the-badge&logo=angular&logoColor=DD0031)
-![Node.js](https://img.shields.io/badge/NODE.JS-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+### Tools & Platforms
+![Power BI](https://img.shields.io/badge/POWER%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/EXCEL-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+![Jupyter](https://img.shields.io/badge/JUPYTER-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![Git](https://img.shields.io/badge/GIT-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MYSQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 </div>
 
@@ -71,8 +66,8 @@ Hello There! I'm **Your Name**, a Systems Engineer student. I enjoy learning new
       <td>
         <h4>YOUR_NAME's GitHub Stats</h4>
         <table>
-          <tr><td>⭐</td><td>Total Stars Earned:</td><td><b>1</b></td></tr>
-          <tr><td>📝</td><td>Total Commits (2025):</td><td><b>67</b></td></tr>
+          <tr><td>⭐</td><td>Total Stars Earned:</td><td><b>0</b></td></tr>
+          <tr><td>📝</td><td>Total Commits (2026):</td><td><b>0</b></td></tr>
           <tr><td>🔀</td><td>Total PRs:</td><td><b>0</b></td></tr>
           <tr><td>❗</td><td>Total Issues:</td><td><b>0</b></td></tr>
           <tr><td>📂</td><td>Contributed to (last year):</td><td><b>0</b></td></tr>
