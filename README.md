@@ -1,8 +1,7 @@
 <div align="center">
   
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Wellcome%20to%20YOUR_NAME's%20Github&fontSize=30&fontColor=c9d1d9&animation=fadeIn&fontAlignY=45&desc=%3C/%3E&descSize=24&descAlignY=70&descAlign=50" width="100%"/>
-
+  <img src="./images/13414519583c03a8576b45d6171c11c9.jpg" width="100%" alt="Welcome to My GitHub"/>
 </div>
 
 <!-- Social Links -->
