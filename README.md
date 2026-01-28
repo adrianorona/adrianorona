@@ -10,7 +10,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/adrianorona/)
   [![Facebook](https://img.shields.io/badge/FACEBOOK-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/turonskiie)
-  [![Gmail](https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ladrian.norona@gmail.com)
+  [![Gmail](https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](https://mail.google.com/mail/?view=cm&to=ladrian.norona@gmail.com)
   [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=safari&logoColor=58a6ff)](https://adrianorona.github.io)
 
 </div>
