@@ -62,22 +62,6 @@
 
 ---
 
-<!-- Statistics Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> Statistics
-
-<div align="center">
-
-  <a href="https://github.com/rona">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianorona&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&hide=contribs" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/adrianorona">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianorona&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-  </a>
-
-</div>
-
----
-
 <!-- Contribution Graph -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Graph" width="25" height="25" /> Adrian's Contribution Graph
 
