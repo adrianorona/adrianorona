@@ -18,7 +18,7 @@
 ---
 
 <!-- About Me Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="ID Card" width="25" height="25" /> About me
+## About me
 
 <table>
   <tr>
@@ -41,7 +41,7 @@
 ---
 
 <!-- Technologies Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Technologies
+##  Technologies
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 ---
 
 <!-- Contribution Graph -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Graph" width="25" height="25" /> Adrian's Contribution Graph
+## Adrian's Contribution Graph
 
 <div align="center">
   
