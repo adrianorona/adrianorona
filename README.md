@@ -26,10 +26,10 @@
       <p>Hello There! I'm <b>Adrian</b>, an aspiring <b>Data Scientist / Data Analyst</b>. I'm passionate about transforming raw data into meaningful insights and building data-driven solutions. Currently exploring machine learning, data visualization, and statistical analysis.</p>
       <br>
       <ul>
-        <li>📊 Passionate about <b>Data Science & Analytics</b></li>
-        <li>🔍 Exploring <b>Machine Learning & AI</b></li>
-        <li>📈 Creating <b>Data Visualizations & Dashboards</b></li>
-        <li>🎯 Goal: Become a skilled <b>Data Scientist</b></li>
+        <li> Passionate about <b>Data Science & Analytics</b></li>
+        <li> Exploring <b>Machine Learning & AI</b></li>
+        <li> Creating <b>Data Visualizations & Dashboards</b></li>
+        <li> Goal: Become a skilled <b>Data Scientist</b></li>
       </ul>
     </td>
     <td width="30%" align="center">
